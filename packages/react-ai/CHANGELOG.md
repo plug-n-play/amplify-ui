@@ -1,5 +1,11 @@
 # @aws-amplify/ui-react-ai
 
+## 0.1.1
+
+### Patch Changes
+
+- [#5774](https://github.com/aws-amplify/amplify-ui/pull/5774) [`42e2d5d1d`](https://github.com/aws-amplify/amplify-ui/commit/42e2d5d1d22bea316fbefa00ba059bdb7e8e428e) Thanks [@thaddmt](https://github.com/thaddmt)! - fix(ai): remove unnecessary use of Buffer
+
 ## 0.1.0
 
 ### Minor Changes
